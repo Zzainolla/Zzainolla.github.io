@@ -1,0 +1,48 @@
+body{
+	background-color: #00f5d4
+}
+.tx1{
+	display: flex;
+	justify-content: center;
+	color:green;
+	font-size:40px;
+}
+.t1{
+	color:green;
+	font-size:20px;
+}
+.t2{
+	color: green;
+	font-size:20px;
+}
+.t3{
+	color:green;
+	font-size:20px;
+}
+.t4{
+	color:green;
+	font-size:20px;
+}
+.t5{
+	color:green;
+	font-size:20px;
+}
+.main{
+	display: flex;
+}
+.main > div{
+	width:500px;
+	height:220px;
+	margin:11px;
+	border: 3px solid black;
+}
+.bx1{
+	padding-right: 60px;
+	background-color: red;
+}
+.bx2{
+	background-color: blue;
+}
+.bx3{
+	background-color: green;
+}
